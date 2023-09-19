@@ -1,0 +1,15 @@
+django
+djangorestframework
+psycopg2-binary
+Pillow
+python-decouple
+python-slugify
+django-filter
+requests
+drf-yasg
+requests
+pytelegrambotapi
+python-decouple
+black
+aiogram
+data
